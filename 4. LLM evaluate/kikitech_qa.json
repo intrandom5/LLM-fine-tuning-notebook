@@ -1,0 +1,182 @@
+[
+  {
+    "messages": [
+      { "role": "user", "content": "근속 3년이면 연차가 며칠인가요?" },
+      { "role": "assistant", "content": "16일입니다. 1년 근속 시 15일이 부여되고, 이후 2년마다 1일씩 추가되어 3년 차에는 16일이 됩니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "선임 직급이 2박 3일 국내 출장을 가면 숙박비는 최대 얼마까지 정산되나요?" },
+      { "role": "assistant", "content": "최대 24만 원입니다. 선임/사원 숙박비 한도가 1박 12만 원이므로 2박이면 24만 원입니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "육아휴직은 며칠까지 쓸 수 있나요?" },
+      { "role": "assistant", "content": "본 규정에는 육아휴직에 대한 내용이 없습니다. 배우자 출산 휴가(10일) 규정만 명시되어 있습니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "퇴직금은 어떻게 계산되나요?" },
+      { "role": "assistant", "content": "본 규정에는 퇴직금 산정 방식에 대한 내용이 없습니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "배우자가 100일 전에 출산했는데 지금 출산 휴가를 신청할 수 있나요?" },
+      { "role": "assistant", "content": "신청할 수 없습니다. 배우자 출산 휴가는 출산일로부터 90일 이내에 사용해야 하는데, 100일이 지나 기한이 초과되었습니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "팀 회식 자리에서 술을 마셔도 되나요?" },
+      { "role": "assistant", "content": "원칙적으로 업무 시간 중 음주는 금지되지만, 회사가 공인한 행사는 예외입니다. 회식이 회사 공인 행사에 해당한다면 가능합니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "02-1234-5001은 어느 팀 전화번호인가요?" },
+      { "role": "assistant", "content": "윤리경영팀입니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "5년 근속하면 회사에서 무엇을 받나요?" },
+      { "role": "assistant", "content": "장기근속 포상으로 50만 원을 받습니다. 또한 리프레시 휴가는 3년 근속마다 3일씩 부여되므로 3년 차에 한 차례 부여됩니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "거래처에서 명절 선물로 6만 원짜리를 받았는데 괜찮나요?" },
+      { "role": "assistant", "content": "허용되지 않습니다. 명절 선물은 5만 원 이하만 예외로 허용되며, 6만 원은 한도를 초과합니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "공공장소 카페에서 회사 노트북으로 고객 개인정보 파일을 열어 작업해도 되나요?" },
+      { "role": "assistant", "content": "두 가지 조건을 지켜야 합니다. 공공 Wi-Fi 사용 시 반드시 VPN을 연결해야 하고, 고객 개인정보는 '기밀' 등급이라 외부 전송이 금지되며 암호화가 권장됩니다. 따라서 VPN 없이 또는 보호 조치 없이 작업하는 것은 규정 위반입니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "재택근무는 일주일에 며칠까지 할 수 있나요?" },
+      { "role": "assistant", "content": "주 2회까지 가능하며 팀장 승인이 필요합니다. 코어타임은 10~15시입니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "유연 근무 B의 근무 시간은 어떻게 되나요?" },
+      { "role": "assistant", "content": "10:00~19:00입니다. 신청 후 1주 단위로 적용됩니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "본인이 결혼하면 경조사 지원금은 얼마인가요?" },
+      { "role": "assistant", "content": "100만 원입니다(축의금 + 화환)." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "성과급은 1년에 몇 번, 언제 받나요?" },
+      { "role": "assistant", "content": "연 2회, 6월과 12월 성과 평가를 기반으로 지급됩니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "비밀번호는 며칠마다 변경해야 하나요?" },
+      { "role": "assistant", "content": "90일마다 의무적으로 변경해야 합니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "직무 관련 외부 교육비는 연간 얼마까지 지원되나요?" },
+      { "role": "assistant", "content": "연 100만 원 한도로 지원됩니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "초과 근무는 한 달에 최대 몇 시간까지 할 수 있나요?" },
+      { "role": "assistant", "content": "월 52시간을 초과할 수 없으며, 팀장 사전 승인이 필요합니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "성희롱을 신고하면 사실 조사는 얼마 안에 완료되나요?" },
+      { "role": "assistant", "content": "2주 이내에 완료됩니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "어학 학원비는 어떤 언어를 지원하고 한도는 얼마인가요?" },
+      { "role": "assistant", "content": "영어, 일본어, 중국어를 지원하며 월 10만 원 한도입니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "데이터 등급 중 '기밀'에 해당하는 정보는 외부로 전송할 수 있나요?" },
+      { "role": "assistant", "content": "외부 전송이 금지됩니다. '기밀' 등급은 암호화가 권장되고 외부 전송이 금지됩니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "키키테크는 몇 년에 설립되었나요?" },
+      { "role": "assistant", "content": "2015년에 설립되었습니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "키키테크의 핵심 가치는 무엇인가요?" },
+      { "role": "assistant", "content": "혁신, 신뢰, 협력, 성장, 다양성입니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "본사는 어디에 있나요?" },
+      { "role": "assistant", "content": "서울 강남구 테헤란로에 있습니다. 판교·부산 지사도 운영하고 있습니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "급여는 매월 며칠에 지급되나요?" },
+      { "role": "assistant", "content": "매월 25일에 지급됩니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "윤리 위반 신고 이메일 주소는 무엇인가요?" },
+      { "role": "assistant", "content": "ethics@kikitech.co.kr 입니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "기본 근무 시간은 하루 몇 시간인가요?" },
+      { "role": "assistant", "content": "1일 8시간, 주 40시간이 원칙입니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "본인 결혼 휴가는 며칠인가요?" },
+      { "role": "assistant", "content": "5일입니다(결혼일 전후 1개월 내 사용)." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "IT 보안 사고가 발생하면 어디로 신고하나요?" },
+      { "role": "assistant", "content": "IT 보안팀(내선 5000, security@kikitech.co.kr)에 즉시 신고해야 합니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "임직원은 자사 서비스를 얼마나 할인받나요?" },
+      { "role": "assistant", "content": "자사 서비스 이용료를 50% 할인받습니다." }
+    ]
+  },
+  {
+    "messages": [
+      { "role": "user", "content": "화재 발생 시 대피 집결 장소는 어디인가요?" },
+      { "role": "assistant", "content": "건물 정문 앞 주차장입니다." }
+    ]
+  }
+]
